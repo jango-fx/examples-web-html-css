@@ -1,0 +1,25 @@
+body {
+  font-family: Roboto Mono, monospace;
+  background: rgb(30, 30, 43);
+  color: rgb(224, 218, 255);
+}
+
+#container {
+  display: flex;
+  justify-content: space-around;
+}
+
+p {
+  margin-top: 10px;
+}
+
+.button {
+  width: 30%;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid;
+}
+
+#b2 {
+  opacity: 40%;
+}
